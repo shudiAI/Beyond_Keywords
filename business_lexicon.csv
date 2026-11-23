@@ -1,0 +1,38 @@
+term,source_split,version
+bank,train,1.0
+broker,train,1.0
+ceo,train,1.0
+consumer confidence,train,1.0
+consumer prices,train,1.0
+crude oil,train,1.0
+deal,train,1.0
+debt,train,1.0
+earnings,train,1.0
+economic growth,train,1.0
+economy,train,1.0
+euro,train,1.0
+fed,train,1.0
+gdp,train,1.0
+imf,train,1.0
+inflation,train,1.0
+loss,train,1.0
+merger,train,1.0
+mortgage,train,1.0
+oil prices,train,1.0
+opec,train,1.0
+pay,train,1.0
+prices,train,1.0
+profit,train,1.0
+profits,train,1.0
+quarter,train,1.0
+rates,train,1.0
+sales,train,1.0
+sec,train,1.0
+sell,train,1.0
+shares,train,1.0
+stake,train,1.0
+stock,train,1.0
+stocks,train,1.0
+tax,train,1.0
+trade,train,1.0
+treasuries,train,1.0

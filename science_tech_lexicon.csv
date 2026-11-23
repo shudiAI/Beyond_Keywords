@@ -1,0 +1,68 @@
+term,source_split,version
+anti spam,train,1.0
+apps,train,1.0
+arctic,train,1.0
+astronaut,train,1.0
+astronauts,train,1.0
+browser,train,1.0
+cassini,train,1.0
+chip,train,1.0
+cloning,train,1.0
+computer,train,1.0
+desktop,train,1.0
+digital,train,1.0
+dna,train,1.0
+downloads,train,1.0
+dvd,train,1.0
+earth,train,1.0
+firefox,train,1.0
+game,train,1.0
+gmail,train,1.0
+hackers,train,1.0
+hd dvd,train,1.0
+hubble,train,1.0
+internet,train,1.0
+internet explorer,train,1.0
+ipod,train,1.0
+jpeg,train,1.0
+linux,train,1.0
+lunar,train,1.0
+mars,train,1.0
+mobile,train,1.0
+moon,train,1.0
+mozilla,train,1.0
+nasa,train,1.0
+netscape,train,1.0
+online,train,1.0
+open source,train,1.0
+patches,train,1.0
+pc,train,1.0
+phone,train,1.0
+phones,train,1.0
+planet,train,1.0
+planets,train,1.0
+rovers,train,1.0
+screensaver,train,1.0
+search tool,train,1.0
+security,train,1.0
+server,train,1.0
+shuttle,train,1.0
+software,train,1.0
+space,train,1.0
+space station,train,1.0
+spacecraft,train,1.0
+spaceshipone,train,1.0
+spam,train,1.0
+spyware,train,1.0
+tech,train,1.0
+technology,train,1.0
+thunderbird,train,1.0
+trojan,train,1.0
+video,train,1.0
+virus,train,1.0
+web,train,1.0
+wi fi,train,1.0
+wimax,train,1.0
+windows,train,1.0
+wireless,train,1.0
+xp,train,1.0
